@@ -1,0 +1,230 @@
+{
+  "basics": {
+    "name": "Sakshi Soni",
+    "label": "Updated Soon",
+    "image": "my-avatar.png",
+    "email": "sasi.soni001@gmail.com",
+    "phone": "+91 8295475313",
+    "birthday": "Updated Soon",
+    "location": "Updated Soon",
+    "about": [
+      "Updated Soon"
+    ]
+  },
+  "contactInfo": [
+    {
+      "icon": "mail-outline",
+      "title": "Email",
+      "link": "mailto:sasi.soni001@gmail.com",
+      "value": "sasi.soni001@gmail.com"
+    },
+    {
+      "icon": "phone-portrait-outline",
+      "title": "Phone",
+      "link": "tel:+91 8295475313",
+      "value": "+91 8295475313"
+    },
+    {
+      "icon": "calendar-outline",
+      "title": "Birthday",
+      "value": "Updated Soon"
+    },
+    {
+      "icon": "location-outline",
+      "title": "Location",
+      "value": "Updated Soon"
+    }
+  ],
+  "socials": [
+    {
+      "icon": "logo-linkedin",
+      "url": "Updated Soon"
+    },
+    {
+      "icon": "logo-github",
+      "url": "Updated Soon"
+    },
+    {
+      "icon": "logo-facebook",
+      "url": "Updated Soon"
+    },
+    {
+      "icon": "logo-instagram",
+      "url": "Updated Soon"
+    }
+  ],
+  "services": [
+    {
+      "icon": "https://placehold.co/40x40/cccccc/333333?text=FD",
+      "title": "Frontend Development",
+      "description": "Building beautiful and responsive user interfaces with modern frameworks like React and Tailwind CSS."
+    },
+    {
+      "icon": "https://placehold.co/40x40/cccccc/333333?text=BD",
+      "title": "Backend Development",
+      "description": "Crafting robust and scalable server-side logic and APIs using Node.js and Express.js."
+    },
+    {
+      "icon": "https://placehold.co/40x40/cccccc/333333?text=DB",
+      "title": "Database Management",
+      "description": "Managing real-time databases and data storage solutions with Firebase and other platforms."
+    },
+    {
+      "icon": "https://placehold.co/40x40/cccccc/333333?text=DS",
+      "title": "Deployment Solutions",
+      "description": "Deploying applications to cloud services and ensuring smooth, continuous operation."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Jane Doe",
+      "company": "Tech Innovations Inc.",
+      "quote": "Abhishek is a talented and dedicated developer. His work on our project was exceptional, and he delivered a high-quality, scalable solution ahead of schedule.",
+      "avatar": "./images/avatar-2.png"
+    },
+    {
+      "name": "John Smith",
+      "company": "Growth Partners Co.",
+      "quote": "I was consistently impressed with Abhishek's problem-solving skills and his ability to quickly grasp complex requirements. A great asset to any team.",
+      "avatar": "./images/avatar-1.png"
+    }
+  ],
+  "clients": [
+    {
+      "name": "Startup Alpha",
+      "logo": "./images/logo-1-color.png"
+    },
+    {
+      "name": "Beta Labs",
+      "logo": "./images/logo-2-color.png"
+    }
+  ],
+  "education": [
+    {
+      "title": "Bachelor of Technology - Computer Science and Engineering",
+      "dates": "2023 – Present",
+      "description": "Indira Gandhi Delhi Technical University, CGPA: 9.00"
+    },
+    {
+      "title": "Senior Secondary (CBSE)",
+      "dates": "2022",
+      "description": "The Vivekananda School, Percentage: 91.8%"
+    },
+    {
+      "title": "Secondary (CBSE)",
+      "dates": "2020",
+      "description": "Sarvodya Senior Secondary School, Percentage: 95.4%"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Social Media Coordinator",
+      "dates": "2023 – 2025",
+      "description": "ZENA IGDTUW: Managing content creation and event promotion"
+    },
+    {
+      "title": "PR Core Member",
+      "dates": "2024 – 2025",
+      "description": "GFG IGDTUW: Led PR and outreach strategy for coding events"
+    },
+    {
+      "title": "Mentor",
+      "dates": "Updated Soon",
+      "description": "Desh ke Mentor: Mentored school students under Delhi Govt’s mentorship program"
+    },
+    {
+      "title": "Python and Machine Learning Internship",
+      "dates": "June 2024 – July 2024",
+      "description": "Completed an 8-week internship at IGDTUW COE-AI; developed sentiment analysis project in a team of 3."
+    }
+  ],
+  "skills": [
+    {
+      "title": "C/C++",
+      "percentage": 50
+    },
+    {
+      "title": "Python",
+      "percentage": 50
+    },
+    {
+      "title": "HTML",
+      "percentage": 50
+    },
+    {
+      "title": "JavaScript",
+      "percentage": 50
+    },
+    {
+      "title": "React",
+      "percentage": 50
+    },
+    {
+      "title": "Node.js",
+      "percentage": 50
+    },
+    {
+      "title": "NumPy",
+      "percentage": 50
+    },
+    {
+      "title": "Pandas",
+      "percentage": 50
+    },
+    {
+      "title": "MySQL",
+      "percentage": 50
+    },
+    {
+      "title": "Haskell",
+      "percentage": 50
+    },
+    {
+      "title": "TensorFlow/Keras",
+      "percentage": 50
+    },
+    {
+      "title": "OpenCV",
+      "percentage": 50
+    }
+  ],
+  "achievements": [
+    {
+      "title": "Google-supported Women Engineers Program",
+      "description": "Secured a spot in the prestigious program, ranking in the top 0.7% of over 30,000 applicants to earn a 100% scholarship and a 1,00,000 cash award."
+    },
+    {
+      "title": "DSA Practice",
+      "description": "Solved 300+ problems on LeetCode and GeeksforGeeks."
+    },
+    {
+      "title": "Codess Cafe Mentee",
+      "description": "Selected from 4,000+ applicants for mentorship."
+    },
+    {
+      "title": "Top 15 in Innovortex Ideathon",
+      "description": "Designed a Figma-based blockchain platform to secure digital documents; selected in top 5 teams."
+    }
+  ],
+  "portfolio": [
+    {
+      "name": "Sports Buddy",
+      "image": "./images/project-1.jpg",
+      "description": "Full-Stack Sports Networking Application",
+      "url": "Updated Soon"
+    },
+    {
+      "name": "Mind Matrix",
+      "image": "./images/project-2.jpg",
+      "description": "Algorithmic Sudoku Solver",
+      "url": "Updated Soon"
+    },
+    {
+      "name": "Sentiment Analysis",
+      "image": "./images/project-3.jpg",
+      "description": "Real-time Facial Emotion Recognition Model",
+      "url": "Updated Soon"
+    }
+  ],
+  "blogPosts": []
+}
